@@ -12,3 +12,8 @@ function pattern(n) {
 }
 
 pattern(4)
+
+// ****
+// *  *
+// *  *
+// ****
